@@ -9,6 +9,6 @@ class AdminController extends Controller
     public $layout = 'empty';
     public function actionIndex()
     {
-        return $this->renderPartial('index');
+        return $this->render('index');
     }
 }

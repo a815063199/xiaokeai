@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-param" content="_csrf">
-    <meta name="csrf-token" content="zLi_dnuv_CqPzFSeAPM8MWy_TDoVTueWYDmC3-tLT0-j4MxHFJioQdyIFtpWo39kGfogV1gaq-9NTNupnHoiCw==">
+    <meta name="csrf-token" content="a3becUdGipP3Iu0c1ffYVab8sVFN46QJWbXuZwApvKIELq1AKHHe-KRmr1iDp5sA07ndPAC36HB0wLcRdxjR5g==">
     <title>倍业科技后台管理系统</title>
     <link rel="icon" href="/common/favicon.ico" type="image/x-icon">
     <link href="/admin/assets/8dbd701c/css/bootstrap.css" rel="stylesheet">
