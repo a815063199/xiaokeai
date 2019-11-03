@@ -14,8 +14,8 @@
     <nav id="w0" class="navbar-inverse navbar-fixed-top navbar"><div class="container-fluid"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w0-collapse"><span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
-<span class="icon-bar"></span></button><a class="navbar-brand" href="/admin/site/index">倍业科技后台管理系统</a></div><div id="w0-collapse" class="collapse navbar-collapse"><ul id="w1" class="navbar-nav navbar-right nav"><li class="active"><a href="/admin/site/index">首页</a></li>
-<li><a href="/admin/site/logout" data-method="post">注销(xiangyu)</a></li></ul></div></div></nav>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="/index.php?r=admin/index">倍业科技后台管理系统</a></div><div id="w0-collapse" class="collapse navbar-collapse"><ul id="w1" class="navbar-nav navbar-right nav"><li class="active"><a href="/index.php?r=admin/index">首页</a></li>
+<li><a href="/index.php?r=admin/logout" data-method="post">注销(xiangyu)</a></li></ul></div></div></nav>
     <div class="content-container">
 <!--        -->        <div class="row">
             <div class="float-button" id="menu-show-hide"><span class="glyphicon glyphicon-chevron-left"></span></div>
