@@ -16,4 +16,9 @@ class AdminController extends Controller
     {
         return $this->render('logout');
     }
+
+    public function actionLogin()
+    {
+        return $this->render('index');
+    }
 }
